@@ -46,7 +46,7 @@ Download the base mod-files <br>
 You have 2 options below: <br>
 Automatic Installer or Manual Installer. (choose one)
 
- -  [Auto   Install](https://drive.google.com/file/d/1zpRjNTe4UVcJ_OW5VunA3obFF1erU5JR/view?usp=drive_link)
+ -  [Auto   Install](https://drive.google.com/file/d/1jNwx5xw2KN2G1SZgYZ0X7umL-1Rl5J2y/view?usp=drive_link)
 <br> Choosing this option above, you can easily install the base files of the mod automatically using our Auto Installer Setup.
 
  -  [Manual Install](https://drive.google.com/file/d/1J5W3lDNkctpc-8ns7kKWvNrNvG2P3sV1/view?usp=drive_link)
