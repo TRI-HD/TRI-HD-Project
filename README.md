@@ -46,10 +46,10 @@ Download the base mod-files <br>
 You have 2 options below: <br>
 Automatic Installer or Manual Installer. (choose one)
 
- -  [Auto   Install](https://drive.google.com/file/d/1jNwx5xw2KN2G1SZgYZ0X7umL-1Rl5J2y/view?usp=drive_link)
+ -  [Auto   Install](https://drive.google.com/file/d/1So4sWrkXrsFG40cjKXAp4c4_WpKFUJx5/view?usp=drive_link) 
 <br> Choosing this option above, you can easily install the base files of the mod automatically using our Auto Installer Setup.
 
- -  [Manual Install](https://drive.google.com/file/d/1J5W3lDNkctpc-8ns7kKWvNrNvG2P3sV1/view?usp=drive_link)
+ -  [Manual Install](https://drive.google.com/file/d/1J5W3lDNkctpc-8ns7kKWvNrNvG2P3sV1/view?usp=drive_link) (Recommended)
 <br> Choosing this option above, you will have to install the base files of the mod in manual method. 
 <br>(Explained in Installation section)
 
@@ -69,7 +69,7 @@ And of course, you can choose which ones to use.
 We have two methods for installation. <br> Choose only one!
 
 - Automatic Installation: <br>
-Download our installer and run it... <br> Go through the installation process and make sure to select the required directory correctly.
+Download our installer and run it... <br> Go through the installation process and MAKE SURE to select the required directory correctly. <br> Along with the installer, there is a ''tutorial.txt'' file <br> please read this file if you have any doubts about the installation location.
 
 - Manual Installation: <br>
 Download the manual option of the mod. <br> When opening the file, make sure to read the "Tutorial.txt" file <br> which contains all the instructions needed for manual installation.
