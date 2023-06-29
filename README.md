@@ -14,7 +14,7 @@ DISCORD SERVER: https://discord.gg/J68aYt65Zc
 ![Texto Alternativo](https://github.com/TRI-HD/TRI-HD-Project/blob/be31d5fa83ca05aff930018b24da3f56c259d4a1/Comparison%20Screenshots/TRIHDLogo.png)
 
 Welcome to the TRI-HD Project: HUD Revamp.                                                                                                                                                                                                   
-This is an introduction to the mod and everything about it, going through all the relevant parts, <br> (including a Screenshot Comparison section.) <br> Make sure to read all the necessary information.
+This is an introduction to the mod and everything about it, going through all the relevant parts, <br> (including download,installation and a Screenshot Comparison section.) <br> Make sure to read all the necessary information.
                                                                                                                                                                                                                                                                                                                                                                                                                                                       
 ### WHAT THIS MOD DOES:
 The TRI-HD Project is an HD Texture Project made by ZAIBATSU and Rewend. <br> It focuses on enhancing the HUD/UI of Monster Hunter Tri, <br> bringing it to high-definition quality while preserving the essence of the original art. <br> The mod is based on official Capcom materials such as the Monster Hunter Illustrations Book Series, Magazines, Concepts, Trailers, and even the art from the MH-TRI Manual.
@@ -40,6 +40,29 @@ This project is the result of the dedication of the TRI HD team and its creators
 However, other individuals also contributed in various ways to make this project happen!
 
 Special thanks to our Testers! <br> who have been testing the mod reporting bugs, providing feedback, and helping us achieve a result we are proud of.
+##
+### DOWNLOAD LINKS:
+Download the base mod-files <br>
+You have 2 options below: <br>
+Automatic Installer or Manual Installer. (choose one)
+
+ -  [Auto   Install](https://drive.google.com/file/d/1zpRjNTe4UVcJ_OW5VunA3obFF1erU5JR/view?usp=drive_link)
+<br> Choosing this option above, you can easily install the base files of the mod automatically using our Auto Installer Setup.
+
+ -  [Manual Install](https://drive.google.com/file/d/1J5W3lDNkctpc-8ns7kKWvNrNvG2P3sV1/view?usp=drive_link)
+<br> Choosing this option above, you will have to install the base files of the mod in manual method. 
+<br>(Explained in Installation section)
+
+##
+### Download the Optional Mods below <br>
+(Optional Mods can only be installed manually) <br>
+ - [Optional Mods](https://drive.google.com/file/d/1SkRgobn3Gb5XeT90j9SK_TVpgS4QwQ-B/view?usp=drive_link)
+<br> By downloading the optional mods above, you will have access to mods such as: <br>
+Xbox controller layout, PlayStation controller and even Switch Joy-Cons <br>
+and some bonus mods you may have interested. <br>
+And of course, you can choose which ones to use.
+
+-----------------------------------------------------------------------------
 
 ##
 ### INSTALLATION GUIDE:
@@ -52,7 +75,7 @@ Download our installer and run it... <br> Go through the installation process an
 Download the manual option of the mod. <br> When opening the file, make sure to read the "Tutorial.txt" file <br> which contains all the instructions needed for manual installation.
 
 -----------------------------------------------------------------------------
-- OPTIONAL MODS Installation: <br>
+ - OPTIONAL MODS Installation: <br>
 Optional mods can ONLY be installed manually! <br> Download the optional mods file and read the "Tutorial.txt" file <br> which contains all the necessary information for installing the optional mods.
 
 ## 
