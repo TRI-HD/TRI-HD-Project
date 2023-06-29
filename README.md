@@ -10,8 +10,8 @@ including comprehensive guides to enhance your game.
 DISCORD SERVER: https://discord.gg/J68aYt65Zc                                                                                                                                                                                                    
  
 ##                                                                                                                                                                                                                                                                                
-### INTRODUCTION
-![Texto Alternativo](https://github.com/ZAIBATSU-TV/TRI-HD-Project/blob/a651778705bfe4756db0fa0f802b26c0f95a7352/Comparison%20Screenshots/TRIHDLogo.png)
+### INTRODUCTION       
+![Texto Alternativo](https://github.com/TRI-HD/TRI-HD-Project/blob/be31d5fa83ca05aff930018b24da3f56c259d4a1/Comparison%20Screenshots/TRIHDLogo.png)
 
 Welcome to the TRI-HD Project: HUD Revamp.                                                                                                                                                                                                   
 This is an introduction to the mod and everything about it, going through all the relevant parts, <br> (including a Screenshot Comparison section.) <br> Make sure to read all the necessary information.
@@ -120,19 +120,19 @@ Clock,Health Bar,Stamina Bar,Spirit Gauge and Switchaxe HUD,Quick-Item Menu,Bowg
 <br> here are some of them: (GIFs and Screenshots below) <br>
 
  - Part of bowgun HUD and quick-item menu. <br>
-![Bowgun HUD 1](https://github.com/ZAIBATSU-TV/TRI-HD-Project/blob/261463544a93131ddb6a4fe3588398c5dabd1624/Comparison%20Screenshots/InvBow.png) 
+![Bowgun HUD 1](https://github.com/TRI-HD/TRI-HD-Project/blob/be31d5fa83ca05aff930018b24da3f56c259d4a1/Comparison%20Screenshots/InvBow.png) 
 
  - Bowgun Ammo Menu Expanded
-![Texto Alternativo](https://github.com/ZAIBATSU-TV/TRI-HD-Project/blob/a651778705bfe4756db0fa0f802b26c0f95a7352/Comparison%20Screenshots/bowgunComparison.png) 
+![Texto Alternativo](https://github.com/TRI-HD/TRI-HD-Project/blob/be31d5fa83ca05aff930018b24da3f56c259d4a1/Comparison%20Screenshots/bowgunComparison.png) 
 
  - Bowgun Ammo Icons <br>
-![Texto Alternativo](https://github.com/ZAIBATSU-TV/TRI-HD-Project/blob/a651778705bfe4756db0fa0f802b26c0f95a7352/Comparison%20Screenshots/BowgunAmmo.png) 
+![Texto Alternativo](https://github.com/TRI-HD/TRI-HD-Project/blob/be31d5fa83ca05aff930018b24da3f56c259d4a1/Comparison%20Screenshots/BowgunAmmo.png) 
 
  - QuickItem Menu <br>
-![Texto Alternativo](https://github.com/ZAIBATSU-TV/TRI-HD-Project/blob/a651778705bfe4756db0fa0f802b26c0f95a7352/Comparison%20Screenshots/inventory_comparison.png)
+![Texto Alternativo](https://github.com/TRI-HD/TRI-HD-Project/blob/be31d5fa83ca05aff930018b24da3f56c259d4a1/Comparison%20Screenshots/inventory_comparison.png)
 
  - Ingame POV <br>
-![Texto Alternativo](https://github.com/ZAIBATSU-TV/TRI-HD-Project/blob/a651778705bfe4756db0fa0f802b26c0f95a7352/Comparison%20Screenshots/Main.gif)
+![Texto Alternativo](https://github.com/TRI-HD/TRI-HD-Project/blob/be31d5fa83ca05aff930018b24da3f56c259d4a1/Comparison%20Screenshots/Main.gif)
 <br>
 
 More: <br>
@@ -141,10 +141,10 @@ All screen elements related to the initial menus, multiplayer menu, Loclac windo
 <br> here are some of them: (GIFs and Screenshots below) <br>
 
  - Main Menu <br>
-![Texto Alternativo](https://github.com/ZAIBATSU-TV/TRI-HD-Project/blob/a651778705bfe4756db0fa0f802b26c0f95a7352/Comparison%20Screenshots/MainMenu.gif)
+![Texto Alternativo](https://github.com/TRI-HD/TRI-HD-Project/blob/be31d5fa83ca05aff930018b24da3f56c259d4a1/Comparison%20Screenshots/MainMenu.gif)
 
  - START Screen <br>
-![Texto Alternativo](https://github.com/ZAIBATSU-TV/TRI-HD-Project/blob/a651778705bfe4756db0fa0f802b26c0f95a7352/Comparison%20Screenshots/startscreen.png)
+![Texto Alternativo](https://github.com/TRI-HD/TRI-HD-Project/blob/be31d5fa83ca05aff930018b24da3f56c259d4a1/Comparison%20Screenshots/startscreen.png)
 <br>
 
  - COMPLETE ICONS REWORK <br>
@@ -152,22 +152,22 @@ All icons in the game have been handcrafted, including icons for all weapons, pl
 <br> here are some of them: (GIFs and Screenshots below) <br>
 
  - Main Icons Rework <br>
-![Texto Alternativo](https://github.com/ZAIBATSU-TV/TRI-HD-Project/blob/a651778705bfe4756db0fa0f802b26c0f95a7352/Comparison%20Screenshots/triHD_all_icons.gif)
+![Texto Alternativo](https://github.com/TRI-HD/TRI-HD-Project/blob/be31d5fa83ca05aff930018b24da3f56c259d4a1/Comparison%20Screenshots/triHD_all_icons.gif)
 
  - Award/Achievement Icons Rework <br>
-![Texto Alternativo](https://github.com/ZAIBATSU-TV/TRI-HD-Project/blob/a651778705bfe4756db0fa0f802b26c0f95a7352/Comparison%20Screenshots/iconsRewards.gif)
+![Texto Alternativo](https://github.com/TRI-HD/TRI-HD-Project/blob/be31d5fa83ca05aff930018b24da3f56c259d4a1/Comparison%20Screenshots/iconsRewards.gif)
 
  - Player Icons and Weapon Icons <br>
 (shout-out to the boys in this screenshot :D ) <br>
-![Texto Alternativo](https://github.com/ZAIBATSU-TV/TRI-HD-Project/blob/a651778705bfe4756db0fa0f802b26c0f95a7352/Comparison%20Screenshots/WeaponIcons.gif)
+![Texto Alternativo](https://github.com/TRI-HD/TRI-HD-Project/blob/be31d5fa83ca05aff930018b24da3f56c259d4a1/Comparison%20Screenshots/WeaponIcons.gif)
 
  - Original Buttons Rework <br>
-![Texto Alternativo](https://github.com/ZAIBATSU-TV/TRI-HD/blob/a651778705bfe4756db0fa0f802b26c0f95a7352/Comparison%20Screenshots/ButtonPrompts.gif)
+![Texto Alternativo](https://github.com/TRI-HD/TRI-HD-Project/blob/be31d5fa83ca05aff930018b24da3f56c259d4a1/Comparison%20Screenshots/ButtonPrompts.gif)
 
  - The Characters Portrait Rework <br>
 We changed the portrait of the characters for one that we remade by hand, without that poor rendering of the original. <br>
 Special thanks for one of our contributors "Faelin", who helped us with this one. <br>
-![Texto Alternativo](https://github.com/ZAIBATSU-TV/TRI-HD/blob/a651778705bfe4756db0fa0f802b26c0f95a7352/Comparison%20Screenshots/portrait_comparison.gif)
+![Texto Alternativo](https://github.com/TRI-HD/TRI-HD-Project/blob/be31d5fa83ca05aff930018b24da3f56c259d4a1/Comparison%20Screenshots/portrait_comparison.gif)
 <br>
 Remember, this is just a small sample of what our mod is capable of. <br> We encourage you to download the mod firsthand to truly experience its full potential <br> and discover much much more. <br>
 <br> Join us at the Discord Server <br> Enjoy the mod and happy hunting!
