@@ -56,7 +56,7 @@ Automatic Installer or Manual Installer. (choose one)
 ##
 ### Download the Optional Mods below <br>
 (Optional Mods can only be installed manually) <br>
- - [Optional Mods](https://drive.google.com/file/d/1SkRgobn3Gb5XeT90j9SK_TVpgS4QwQ-B/view?usp=drive_link)
+ - [Optional Mods](https://drive.google.com/file/d/1sejOTC-Xxrqp4myrM4xqGWfzEoOBPq23/view?usp=drive_link) 
 <br> By downloading the optional mods above, you will have access to mods such as: <br>
 Xbox controller layout, PlayStation controller and even Switch Joy-Cons <br>
 and some bonus mods you may have interested. <br>
