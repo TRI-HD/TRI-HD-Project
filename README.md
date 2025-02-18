@@ -5,10 +5,10 @@ If you're here, you're probably a modding enthusiast and interested in enhancing
 This is the only place to download our project, the official page.                                                                                                                                                                                                                                                                                 
                                                                                                                                                                                                                                                                                  
 Before we proceed with the introduction, note that this GitHub page has just a brief summary of the mod.                                                                                                                                                       
-Join our Discord server where you'll have access to more information about us and the project,                                                                                                                                                                                                                                                                                                                                                             
-including comprehensive guides to enhance your game.                                                                                                                                                                                                                                        
-DISCORD SERVER: https://discord.gg/J68aYt65Zc                                                                                                                                                                                                    
- 
+Join our Discord server where you'll have access to more information about us and the project,                                                                                                                   
+including step-by-step guides to enhance your game.                                                                                                                                                                                                                                                                                                                                                        
+<br>DISCORD SERVER: https://discord.gg/J68aYt65Zc                                                                                                                                                                                                    
+                                 
 ##                                                                                                                                                                                                                                                                                
 ### INTRODUCTION       
 ![Texto Alternativo](https://github.com/TRI-HD/TRI-HD-Project/blob/be31d5fa83ca05aff930018b24da3f56c259d4a1/Comparison%20Screenshots/TRIHDLogo.png)
@@ -17,7 +17,7 @@ Welcome to the TRI-HD Project: HUD Revamp.
 This is an introduction to the mod and everything about it, going through all the relevant parts, <br> (including download,installation and a Screenshot Comparison section.) <br> Make sure to read all the necessary information.
                                                                                                                                                                                                                                                                                                                                                                                                                                                       
 ### WHAT THIS MOD DOES:
-The TRI-HD Project is an HD Texture Project made by ZAIBATSU and Rewend. <br> It focuses on enhancing the HUD/UI of Monster Hunter Tri, <br> bringing it to high-definition quality while preserving the essence of the original art. <br> The mod is based on official Capcom materials such as the Monster Hunter Illustrations Book Series, Magazines, Concepts, Trailers, and even the art from the MH-TRI Manual.
+The TRI-HD Project by ZAIBATSU, focuses on enhancing the HUD/UI of Monster Hunter Tri, <br> bringing it to high-definition quality while preserving the essence of the original art. <br> The mod is based on official Capcom materials such as the Monster Hunter Illustrations Book Series, Magazines, Concepts, Trailers, <br>and even the art from the MH-TRI Manual.
 
 NOTE:
 - This mod is NOT a complete retexture of the entire game! <br> Instead, we focused on retexturing the menus, screen elements, icons, and more. <br> In short, a complete revamp of the game's HUD while respecting the original art and experience.
@@ -29,17 +29,20 @@ Considering the accessibility for players who want to play MH TRI using differen
 This project started with a simple objetive of retexturing some UI Elements using AI Automatic Upscales, <br> utilizing the best AI Upscales available (such as GIGAPIXEL and ESRGAN). <br> However, it soon became evident that it wouldn't be enough for our ambitious goals. <br> We ended up reworking 90% of the HUD and UI elements of the game manually, paying a huge attention to detail. <br> (We still use upscale textures on a few parts, but most of the mod was remade from scratch. handcrafted.)
 
 ### IMPORTANT
-This mod only exists because we wanted to offer something cool to the community. <br> the project is Finished, however, it will continue to receive official support, updates and improvements. <br> we hope we can count on the community to help reporting bugs, giving suggestions and providing feedback. <br> If the project turns out to be well received by the community... <br> it will encourage us to plan and execute similar projects in the future <br> (Maybe MH4U could be the next, who knows...) <br> Wanna help us with feedback? <br> Consider joining our Discord community below, and interacting with us.
-
+This mod only exists because we wanted to offer something cool to the community. <br> the project is already in a complete playable state, however, it will continue to receive official support, updates and improvements. <br> we hope we can count on the community to help reporting bugs, giving suggestions and providing feedback. <br> If the project turns out to be well received by the community... <br> it will encourage us to plan and execute similar projects in the future <br>                                          <br> Wanna help us with feedback? <br> Consider joining our Discord community below, and interacting with us.
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎    ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎    ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎    ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎    ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎    ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   
 ### OUR DISCORD SERVER:
 Join us in a community that shares the passion for modding and Monster Hunter. <br> Our Discord server: https://discord.gg/J68aYt65Zc
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎              ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎    ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎    ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎    ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎    ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎    ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎    ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎                                                                                                         
+### CREDITS:
+This project is led by ZAIBATSU. with contributions from @Rewend who played a key role in helping us achieve the final result of the mod.
+aswell as other collaborators such as @Faelin, who also assisted throughout the project, 
 
-### FINAL CREDITS:
-This project is the result of the dedication of the TRI HD team and its creators> <br> ZAIBATSU (Founder) and Rewend (Co-Founder) <br> spending countless hours and months of their free time, reworking all the textures by handmade process <br> The project started in late January of this year (2023) and is now publicly available in June 2023. <br> we put a lot of effort and huge attention to detail on this. We hope you enjoy the result!
+And of course, we extend a Huge Thanks to our dedicated Tester Team! 
+They have been involved in testing the mod since the beginning, 
+reporting bugs, providing feedback, and helping us achieve a result we are truly proud of.
+we put a lot of effort and huge attention to detail on this one. We hope you enjoy, happy hunting !
 
-However, other individuals also contributed in various ways to make this project happen!
-
-Special thanks to our Testers! <br> who have been testing the mod reporting bugs, providing feedback, and helping us achieve a result we are proud of.
 ##
 ### DOWNLOAD LINKS:
 Download the base mod-files <br>
@@ -120,7 +123,8 @@ Optional mods can ONLY be installed manually! <br> Download the optional mods fi
  = Currently, the mod does not offer customization options for the HUD.  
 
 14 - Does this mod work on Nintendo Wii?  <br>
-= Not yet.
+= This mod is designed for Dolphin only. 
+While we're exploring the possibility of bringing it to consoles in the future, it currently doesn't work on the Wii.
 
 15 - How do I update the mod to the latest version?  <br>
 = If you have installed the mod manually, updating to a newer version is easy:  <br> downloading the new version, installing it over the previous installation, and replacing all files.
