@@ -41,7 +41,7 @@ aswell as other collaborators such as @Faelin, who also assisted throughout the 
 And of course, we extend a Huge Thanks to our dedicated Tester Team! 
 They have been involved in testing the mod since the beginning, 
 reporting bugs, providing feedback, and helping us achieve a result we are truly proud of.
-we put a lot of effort and huge attention to detail on this one. We hope you enjoy, happy hunting !
+<br> we put a lot of effort and huge attention to detail on this one. We hope you enjoy, happy hunting !
 
 ##
 ### DOWNLOAD LINKS:
