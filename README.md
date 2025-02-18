@@ -17,7 +17,7 @@ Welcome to the TRI-HD Project: HUD Revamp.
 This is an introduction to the mod and everything about it, going through all the relevant parts, <br> (including download,installation and a Screenshot Comparison section.) <br> Make sure to read all the necessary information.
                                                                                                                                                                                                                                                                                                                                                                                                                                                       
 ### WHAT THIS MOD DOES:
-The TRI-HD Project by ZAIBATSU, focuses on enhancing the HUD/UI of Monster Hunter Tri, <br> bringing it to high-definition quality while preserving the essence of the original art. <br> The mod is based on official Capcom materials such as the Monster Hunter Illustrations Book Series, Magazines, Concepts, Trailers, <br>and even the art from the MH-TRI Manual.
+The TRI-HD Project by ZAIBATSU, focuses on enhancing the HUD/UI of Monster Hunter Tri, <br> bringing it to high-definition quality while preserving the essence of the original art. <br> The mod is based on official Capcom materials such as the Monster Hunter Illustrations Book Series, Magazines, Concepts, Trailers, and even the art from the MH-TRI Manual.
 
 NOTE:
 - This mod is NOT a complete retexture of the entire game! <br> Instead, we focused on retexturing the menus, screen elements, icons, and more. <br> In short, a complete revamp of the game's HUD while respecting the original art and experience.
